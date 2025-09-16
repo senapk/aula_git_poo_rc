@@ -27,3 +27,5 @@
 - Clicar em criar codespace
 - No codespace, alterar algo, e fazer o add, commit, push
 - Verificar mudanças no github
+- Alterar algo no repositório via interface do github
+- Puxar as modificações para o codespace utilizando `git pull`
