@@ -22,7 +22,7 @@
 
 ## Trabalhando remotamente
 
-- Gosto de trabalho remoto ganhando em dólar.
+- Gosto de trabalho remoto ganhando em dólar, em real ou em euros.
 - Criar um repositório no github, inicilando ele com um readme.md
 - Clicar em criar codespace
 - No codespace, alterar algo, e fazer o add, commit, push
