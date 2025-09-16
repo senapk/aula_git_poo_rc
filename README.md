@@ -1,15 +1,29 @@
 # aula_git_poo_rc
 
-Eu gosto de milk shake de morango
+# GIT
 
-Eu gosto de milk shake de chocolate
+- Criar um nova pasta: `mkdir nome-da-pasta`
+- Entrar na pasta criada: `cd nome-da-pasta`
+- Crio um repositório vazio: `git init`
+- Abrir o vscode na pasta criada: `code .`
+- Saber o estado do repositório: `git status`
+- Criar um arquivo `code nome-do-arquivo.extensão`
+- Adicione conteúdo ao arquivo e salve
+- Adicionar o arquivo ao stage: `git add nome-do-arquivo.extensão`
+- Fazer um commit: `git commit -m "Mensagem do commit"`
+- Se o commit der erro, ele pode pedir pra identificar o usuário:
+  - `git config --global user.name "Seu Nome"`
+  - `git config --global user.email "email"`
+- Fazer uma mudança e voltar para versão do commit
+  - `git restore nome-do-arquivo.extensão`
+  - Clicando no botão `Discard Changes` no vscode
+- Fazer uma alteração e salvar via vscode
+- Ver histórico de commits: `git log`
 
-Eu gosto de milk shake de baunilha
+## Trabalhando remotamente
 
-Eu gosto de milk shake de flocos
-
-Eu gosto de milk shake de creme
-
-Eu gosto de milk shake de ovomaltine
-
-Eu gosto de milk shake de TODOS MISTURADOS
+- Gosto de trabalho remoto ganhando em dólar.
+- Criar um repositório no github, inicilando ele com um readme.md
+- Clicar em criar codespace
+- No codespace, alterar algo, e fazer o add, commit, push
+- Verificar mudanças no github
