@@ -1,6 +1,6 @@
 # aula_git_poo_rc
 
-# GIT
+# GIT para quem é um LEZZZADDDUUUUUUU
 
 - Criar um nova pasta: `mkdir nome-da-pasta`
 - Entrar na pasta criada: `cd nome-da-pasta`
